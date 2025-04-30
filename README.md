@@ -30,5 +30,4 @@ This repository contains an interactive Excel dashboard project that analyzes sa
   - Chart Customization  
   - ## 🚀 How to Use  
 1. Download the Excel file from this repository.  
-2. Enable content and macros (if used).  
-3. Use the slicers to interact with the dashboard.  
+2. Use the slicers to interact with the dashboard.  
